@@ -45,13 +45,3 @@ Dependencies are pinned to guarantee reproducible executions:
 
 ---
 
-## Getting Started
-
-### Installation
-
-Clone the repository and install the required dependencies:
-
-```bash
-git clone [https://github.com/YOUR_USERNAME/bearing-fault-diagnosis-llm.git](https://github.com/YOUR_USERNAME/bearing-fault-diagnosis-llm.git)
-cd bearing-fault-diagnosis-llm
-pip install -r requirements.txt
