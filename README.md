@@ -33,7 +33,6 @@ In the cross-load experiment, the LoRA adapter, the retrieval index and the SVM 
 
 Retrieval improved the LLM in every one of the five seeds (seeds 11, 22, 33, 44 and 55), by 12.3 to 40.2 points. The paired t-test gives p = 0.015. The Wilcoxon test gives p = 0.0625, which is the smallest value possible with five pairs. Because the seed-to-seed spread is large, the seed-42 numbers (19.91 and 67.89) should not be read as typical.
 
-Older versions of this README showed numbers from the first version of the experiments. The table above replaces them with the results of the published paper.
 
 ## What these results do not show
 
